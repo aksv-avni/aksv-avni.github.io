@@ -3,7 +3,7 @@
 ### Here are my projects :
 
 ![credit card fraud detection](credit-card.jpg)
-### Credit Card Fraud Detection using Machine Learning
+### ![Credit Card Fraud Detection using Machine Learning](https://github.com/aksv-avni/credit-card-fraud-detection-using-ML)
 
 
 
