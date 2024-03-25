@@ -8,7 +8,7 @@
 ![Audio Classification](pexels-garrett-morrow-1649771.jpg)
 ### [Audio Classification using Machine Learning](https://github.com/aksv-avni/Audio-classification)
 
-![](pexels-karolina-grabowska-5632402)
+![](pexels-karolina-grabowska-5632402.jpg)
 ### [E-Commerce Site using Django](https://github.com/aksv-avni/Ecommerce-site-using-Django)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
