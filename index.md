@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi, I am Avni
 
 You can use the [editor on GitHub](https://github.com/aksv-avni/aksv-avni.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
