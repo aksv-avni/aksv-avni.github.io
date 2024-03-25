@@ -1,7 +1,7 @@
 ## Hi, I am Avni
 
 ### Here are my projects :
-|![credit card fraud detection](credit-card.jpg) 
+![credit card fraud detection](credit-card.jpg) 
 ### [Credit Card Fraud Detection using Machine Learning](https://github.com/aksv-avni/credit-card-fraud-detection-using-ML) 
 <hr>
 ![Audio Classification](pexels-garrett-morrow-1649771.jpg)
