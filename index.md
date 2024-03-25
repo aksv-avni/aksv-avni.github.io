@@ -11,4 +11,6 @@
 ![](pexels-karolina-grabowska-5632402.jpg)
 ### [E-Commerce Site using Django](https://github.com/aksv-avni/Ecommerce-site-using-Django)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
+- Email : [aksv.avni@gmail.com](mailto:aksv.avni@gmail.com)
+- LinkedIn : [linkedin.com/in/avni-s/](https://www.linkedin.com/in/avni-s/)
