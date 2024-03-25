@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [Hello]
+title: []
 description: [As a fresher delving into Data Science, Machine Learning and Generative AI I'm eager to share my projects that showcase innovation and curiosity in these evolving fields. Join me on this exciting journey of discovery and exploration.]
