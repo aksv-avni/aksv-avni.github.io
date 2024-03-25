@@ -2,7 +2,7 @@
 
 ### Here are my projects :
 
-![credit card fraud detection](/assets/images/credit card.png)
+![credit card fraud detection](aksv-avni.github.io/credit card.jpg)
 
 
 
