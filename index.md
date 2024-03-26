@@ -1,4 +1,4 @@
-## Hi, I am Avni
+
 
 ### Here are my projects :
 ![credit card fraud detection](credit-card.jpg)
